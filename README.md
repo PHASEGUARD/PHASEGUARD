@@ -2,4 +2,4 @@
 
 WIP ! For now please check my links for any information you might want to know, I'm free to talk but be sure to send me a whisper or a DM as I don't start conversations first.
 
-<img width="800" height="200" alt="PerfectViewCard_wide" src="https://github.com/user-attachments/assets/e2332ffa-cb08-4767-a65b-8e41aaac57b9" />
+<img width="700" height="250" alt="PerfectViewCard_wide" src="https://github.com/user-attachments/assets/e2332ffa-cb08-4767-a65b-8e41aaac57b9" />
