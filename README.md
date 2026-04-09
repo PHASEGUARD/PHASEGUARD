@@ -1,7 +1,8 @@
 
 <img src="https://github.com/user-attachments/assets/d6b7ad3b-8cb8-47b3-97a9-39561436913c" align="left" width="400" style="margin-right: 30px;">
 
-<br><br> <div>
+<br><br> 
+<div>
   <font color="#E3B341" size="7" face="Georgia, serif">
   <b>"Do not worry, with me this will be easy. C'est simple comme bonjour."</b>
 </font>
@@ -18,7 +19,6 @@
 
 <br clear="left">
 
-</div>
 <p align="center">
  <a href="https://github.com/songeailes">@Songeailes</a>, you must let me take you out some time. Dinner, dancing, I know the perfect place.
 </p>
